@@ -1,0 +1,46 @@
+h1 {
+    color: red; font-size: 32px; font-weight: bold; font-style: oblique; background-color: black; width:auto; text-align:center;
+}
+input{
+    display:inline-table; margin: auto; width: auto; position: relative; left: -1300px;
+}
+button  {
+    margin: auto; width: auto; background-color: white; position: relative;
+    left: -1300px;
+}
+img {
+    width: 20vw; height: 30vh;
+}
+h3{
+    background-color: rgb(71, 99, 67); width:fit-content; text-align:left; color:gold;
+}
+h5 {
+    background-color: rgb(110, 83, 83); width: fit-content; text-align: left; margin-top:0px; color: rgb(2, 238, 255);
+}
+body {
+    background-image: url("https://t4.ftcdn.net/jpg/03/76/12/17/240_F_376121740_3BmJiey5HE4fniakNIo4g61KL4TeLjnE.jpg") ;
+}
+h2 {
+    background-color: black; color: red; width: fit-content;
+}
+#one {
+    text-align: left;
+}
+#two {
+    text-align: center;
+}
+p {
+    display: table-cell;
+}
+div {
+    float: left; padding: 25px;
+}
+#column3 {
+    margin-top: 0px;
+}
+#column2 {
+    margin-top: 0px;
+}
+#column1 {
+    margin-top: 0px;
+}
